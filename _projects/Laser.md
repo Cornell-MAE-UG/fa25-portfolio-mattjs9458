@@ -3,7 +3,7 @@ layout: project
 title: Laser Construction
 description: Built a Nitrogen Laser
 technologies: [Soldering, Circuit Analysis, Circuit Organization]
-image: /assets/images/function-graph.png
+image: /assets/images/laser-pic.jpg
 ---
 
 <video src="{{ 'assets/laser-operation.MP4' | relative_url }}" controls muted preload="none" style="width: 400px; border-radius: 10px;"></video>
